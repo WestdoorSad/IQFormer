@@ -1,5 +1,5 @@
 # IQFormer
-整理ing
+整理ing DOI: 10.1109/TCCN.2024.3485118
 如果急用baseline可以联系shaomy666@stu.xmu.edu.cn
 如果对大家工作有益
 请点点引用
