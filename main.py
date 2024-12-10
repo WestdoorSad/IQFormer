@@ -60,8 +60,8 @@ if __name__ == '__main__':
         os.mkdir('save_models')
     args = parser.parse_args()
 
-    if not os.path.exists('save_models'):
-        os.mkdir('save_models')
+    if not os.path.exists('logs'):
+        os.mkdir('logs')
     args = parser.parse_args()
 
     # define model saving path
