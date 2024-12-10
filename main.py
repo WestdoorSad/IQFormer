@@ -160,8 +160,6 @@ if __name__ == '__main__':
     test_loader = DataLoader(test_dataset, batch_size=args.eval_batch_size, shuffle=False, drop_last=False)
     if args.database_choose == '2016.10b':
         num_classes = 10
-    elif args.database_choose == '2018.01a':
-        num_classes = 24
     elif args.database_choose == '2019':
         num_classes = 26
     else:
