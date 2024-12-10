@@ -4,8 +4,7 @@ Official Code for "**IQFormer: A Novel Transformer-Based Model With Multi-Modali
 
 ## Citation
 
-If our work is helpful to your research, please cite:
-
+If our work is helpful to your research, please star us on github and cite :
 > @ARTICLE{10729886,
   author={Shao, Mingyuan and Li, Dingzhao and Hong, Shaohua and Qi, Jie and Sun, Haixin},
   journal={IEEE Transactions on Cognitive Communications and Networking},
